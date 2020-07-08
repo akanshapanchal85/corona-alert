@@ -1,0 +1,181 @@
+/* navbar */
+.navbar {
+  background-color: #ff4c68;
+  color: #fff;
+
+}
+
+/* .navbar {
+  padding: 0 0 4.5rem;
+} */
+
+.navbar-brand {
+  font-family: "Montserrat";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+/* frontpage */
+#front-page.container-fluid{
+  padding: 3% 15% 7%;
+
+}
+#front-page {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 100px 100px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.title-heading {
+  color: #fff;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+}
+
+.title-image {
+  width: 400px;
+}
+
+/* symptoms */
+#Symptoms {
+  padding: 7% 7%;
+  text-align: center;
+}
+
+.symptoms {
+  padding: 4.5%;
+}
+
+.symptoms-image {
+  width: 200px;
+}
+
+.symptom-heading {
+  color: #ff847c;
+}
+
+.symptom-paragraph {
+  font-weight: bold;
+  color: #696969;
+}
+h6{
+  color: #ff847c;
+  font-weight: 900;
+}
+
+/* prevention */
+
+/* font awesome */
+
+/* .fas {
+  padding: 7% 7%;
+  text-align: center;
+
+}
+.prevention-row{
+  text-align: center;
+    padding: 1% 1%;
+    color: #fff;
+} */
+/* .background-prevention-image{
+  background: url("https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/12232295361585991262-512.png") #FFEE99 2.5cm bottom no-repeat;
+} */
+/* .image-position-prevention{
+  background-position: 25% 75%;
+} */
+.prevention-colored{
+  background-color: #ff847c;
+  text-align: center;
+  padding: 200px;
+}
+
+#preventions {
+  background-color: #ff847c;
+}
+
+.prevention-text {
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.prevention-image {
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+  padding: 2% 2%;
+}
+.prevention-paragraph{
+  color: #fff;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+#press {
+  background-color: #ef8172;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#footer{
+  background-color: #092532;
+}
+a{
+  font-family: sans-serif;
+  font-size: 1rem;
+  color: #696969;
+}
+a:link{
+  text-decoration: none;
+}
+a:hover{
+  color: #696969;
+}
+#footer-2{
+  padding: 50px 50px;
+  text-align: center;
+  background-color: #fff;
+}
+.button-newsletter{
+  padding: 2% 2%;
+}
